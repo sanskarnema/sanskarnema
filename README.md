@@ -3,8 +3,9 @@ A Python Developer and coding enthusiast.
 
 ![](https://komarev.com/ghpvc/?username=sanskarnema&color=brightgreen)
 
+<!--
 <a href="https://github.com/sanskarnema/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarnema&theme=onestar" alt="sanskarnema" /></a>
-
+-->
 <h2>Technologies and Tools I currently work with : </h2>
 
 | Frontend      | Backend       | Devops        |
@@ -25,11 +26,12 @@ A Python Developer and coding enthusiast.
 
 </a>
 
+<!--
 <h2>Insights</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarnema&layout=donut)](https://github.com/sanskarnema)
 
-
+-->
 <!--
 
 Here are some ideas to get you started:
