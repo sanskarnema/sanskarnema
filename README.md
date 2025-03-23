@@ -3,8 +3,6 @@ A Python Developer and coding enthusiast.
 
 ![](https://komarev.com/ghpvc/?username=sanskarnema&color=brightgreen)
 
-<img width = "100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
 <a href="https://github.com/sanskarnema/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarnema&theme=onestar" alt="sanskarnema" /></a>
 
 <h2>Technologies and Tools I currently work with : </h2>
